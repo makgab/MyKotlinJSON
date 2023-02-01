@@ -4,7 +4,7 @@ Sample Android application to handle JSON communication with a django-rest-api s
 
 It is a very simple solution!
 
-Recommended in production environment: okhttp3 https://square.github.io/okhttp/
+Recommended in production environment: okhttp https://square.github.io/okhttp/
 
 
 
