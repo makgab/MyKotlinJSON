@@ -12,7 +12,7 @@ Recommended in production environment: okhttp3 https://square.github.io/okhttp/
 ## Features
 
 - Development Environment:
-  > Android Studio
+  - Android Studio
 
 
 - App elements:
@@ -22,8 +22,11 @@ Recommended in production environment: okhttp3 https://square.github.io/okhttp/
 
 
 - AndroidManifest.xml:
-  -  <uses-permission android:name="android.permission.INTERNET" />
-  -  In <application> section:      android:usesCleartextTraffic="true"
+  - Permission to Internet:
+  ```
+  <uses-permission android:name="android.permission.INTERNET" />
+  ```
+  - HTTP: in <application> section:      android:usesCleartextTraffic="true"
 
 
 - Components (classes, packages):
