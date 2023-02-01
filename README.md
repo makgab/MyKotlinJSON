@@ -26,7 +26,7 @@ Recommended in production environment: okhttp3 https://square.github.io/okhttp/
   ```
   <uses-permission android:name="android.permission.INTERNET" />
   ```
-  - HTTP protocol (not recommended yet): in <application> section:
+  - HTTP protocol (not recommended yet): in "application" section:
   ```
   android:usesCleartextTraffic="true"
   ```
