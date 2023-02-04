@@ -6,6 +6,7 @@ It is a very simple solution!
 
 Recommended in production environment: okhttp https://square.github.io/okhttp/
 
+example component: Retrofit, Moshi
 
 
 
